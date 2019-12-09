@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: add5f668893bdca4b84bb7099d41d5dd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: CandyCorn
+    100006: CandyCorn1
+    100008: CandyCorn2
+    100010: CandyCorn3
+    100012: CandyCorn4
+    100014: ChocMint
+    100016: Cone
+    100018: Cookie
+    100020: Feckelll
+    100022: Feckelll1
+    100024: Golem
+    100026: Gumdrop
+    100028: Gumdrop1
+    100030: Head
+    100032: Head 1
+    100034: Jaw
+    100036: joint1
+    100038: joint10
+    100040: joint11
+    100042: joint12
+    100044: joint8
+    100046: joint9
+    100048: LArm
+    100050: Larm
+    100052: LMuffin
+    100054: MarshMellow
+    100056: Muffin
+    100058: Muffin1
+    100060: Neopolatin
+    100062: pCylinder6
+    100064: pCylinder7
+    100066: RArm
+    100068: Rarm
+    100070: RMuffin
+    100072: SaltedCaramel
+    100074: Tail
+    100076: Top
+    100078: Warhead1
+    100080: Warhead2
+    400000: //RootNode
+    400002: Body
+    400004: CandyCorn
+    400006: CandyCorn1
+    400008: CandyCorn2
+    400010: CandyCorn3
+    400012: CandyCorn4
+    400014: ChocMint
+    400016: Cone
+    400018: Cookie
+    400020: Feckelll
+    400022: Feckelll1
+    400024: Golem
+    400026: Gumdrop
+    400028: Gumdrop1
+    400030: Head
+    400032: Head 1
+    400034: Jaw
+    400036: joint1
+    400038: joint10
+    400040: joint11
+    400042: joint12
+    400044: joint8
+    400046: joint9
+    400048: LArm
+    400050: Larm
+    400052: LMuffin
+    400054: MarshMellow
+    400056: Muffin
+    400058: Muffin1
+    400060: Neopolatin
+    400062: pCylinder6
+    400064: pCylinder7
+    400066: RArm
+    400068: Rarm
+    400070: RMuffin
+    400072: SaltedCaramel
+    400074: Tail
+    400076: Top
+    400078: Warhead1
+    400080: Warhead2
+    2100000: Caramel
+    2100002: Neo
+    2100004: Chocmint
+    2100006: Waffle
+    2100008: Cookie1
+    2100010: CandyCorn5
+    2100012: Marshmellow
+    2100014: Freckal
+    2100016: Warhead
+    2100018: Licorish
+    2100020: Gumdrop2
+    2100022: Moofin
+    2100024: CandyCain
+    4300000: SaltedCaramel
+    4300002: Neopolatin
+    4300004: ChocMint
+    4300006: Cone
+    4300008: Cookie
+    4300010: CandyCorn4
+    4300012: CandyCorn3
+    4300014: CandyCorn2
+    4300016: CandyCorn
+    4300018: CandyCorn1
+    4300020: MarshMellow
+    4300022: Feckelll
+    4300024: Feckelll1
+    4300026: Warhead1
+    4300028: Tail
+    4300030: Gumdrop
+    4300032: Muffin
+    4300034: pCylinder6
+    4300036: pCylinder7
+    4300038: Gumdrop1
+    4300040: Muffin1
+    7400000: Walk
+    7400002: Hit
+    9500000: //RootNode
+    13700000: CandyCorn
+    13700002: CandyCorn1
+    13700004: CandyCorn2
+    13700006: CandyCorn3
+    13700008: CandyCorn4
+    13700010: ChocMint
+    13700012: Cone
+    13700014: Cookie
+    13700016: Feckelll
+    13700018: Feckelll1
+    13700020: Gumdrop
+    13700022: Gumdrop1
+    13700024: MarshMellow
+    13700026: Muffin
+    13700028: Muffin1
+    13700030: Neopolatin
+    13700032: pCylinder6
+    13700034: pCylinder7
+    13700036: SaltedCaramel
+    13700038: Tail
+    13700040: Warhead1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
