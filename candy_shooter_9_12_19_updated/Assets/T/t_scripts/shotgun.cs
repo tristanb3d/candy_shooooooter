@@ -49,7 +49,16 @@ public class shotgun : MonoBehaviour
         }
        
     }
-   // public void shotgun_shoot()
+
+
+    public void OnCollisionEnter(Collision c)
+    {
+        if (c.gameObject.CompareTag("enm"))
+        {
+            Destroy(gameObject); 
+        }
+    }
+
 
     IEnumerator Example()
     {

@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 1961718124685837589, guid: 7183aa0a1f5423c4f8bf31a3f937210b,
         type: 3}
       propertyPath: m_Name
-      value: green_ballon_trig
+      value: green_ballon_trig Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1961718124685837586, guid: 7183aa0a1f5423c4f8bf31a3f937210b,
         type: 3}
@@ -67,6 +67,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1961718125532840537, guid: 7183aa0a1f5423c4f8bf31a3f937210b,
+        type: 3}
+      propertyPath: Spawner2
+      value: 
+      objectReference: {fileID: 5330351633867879376, guid: 815fe11f691e22345bde1ad8ba183140,
+        type: 3}
     - target: {fileID: 1961718124207188324, guid: 7183aa0a1f5423c4f8bf31a3f937210b,
         type: 3}
       propertyPath: spawner

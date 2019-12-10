@@ -10388,6 +10388,7 @@ GameObject:
   - component: {fileID: 1358683102}
   - component: {fileID: 1358683101}
   - component: {fileID: 1358683106}
+  - component: {fileID: 1358683109}
   - component: {fileID: 1358683107}
   - component: {fileID: 1358683108}
   - component: {fileID: 1358683105}
@@ -10543,6 +10544,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pistol: {fileID: 2139596462}
   shotgun: {fileID: 1382499069}
+--- !u!114 &1358683109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1358683100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2055511db72b78439a6f8be6dc1bfe7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1365331825
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19890,11 +19903,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5593006421431731022, guid: eff711d64062e9a49a0ef900c575138a,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5593006421431731024, guid: eff711d64062e9a49a0ef900c575138a,
         type: 3}
       propertyPath: SpawnTimer2
@@ -19921,6 +19929,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3131992879175706231, guid: b1c37a346910bef469364bb273043bfc,
         type: 3}
+    - target: {fileID: 5593006421431731022, guid: eff711d64062e9a49a0ef900c575138a,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5593006421431731025, guid: eff711d64062e9a49a0ef900c575138a,
         type: 3}
       propertyPath: m_Enabled
@@ -20448,7 +20461,7 @@ PrefabInstance:
         type: 3}
       propertyPath: Spawner2
       value: 
-      objectReference: {fileID: 7315825970896107161, guid: bb243636e756d524ab0ce25f025fe04a,
+      objectReference: {fileID: 8817439060006009194, guid: 3ee1ac9701f0bdc4fb275ba08c3fe9bd,
         type: 3}
     - target: {fileID: 8567545779250694712, guid: a1024107e8ecb684886129a06fb5420b,
         type: 3}
@@ -20463,7 +20476,7 @@ PrefabInstance:
     - target: {fileID: 8567545779250694712, guid: a1024107e8ecb684886129a06fb5420b,
         type: 3}
       propertyPath: SpawnMax
-      value: 1000
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 8567545779250694712, guid: a1024107e8ecb684886129a06fb5420b,
         type: 3}

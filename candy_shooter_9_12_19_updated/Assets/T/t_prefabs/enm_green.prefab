@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8159154087898701296}
   - component: {fileID: 1207089233967999177}
   - component: {fileID: 5249311200451713906}
+  - component: {fileID: 2570417465440761907}
   - component: {fileID: 6866383302286237633}
   m_Layer: 0
   m_Name: enm_green
@@ -110,6 +111,18 @@ MonoBehaviour:
   agent: {fileID: 6866383302286237633}
   radius: 20
   golumHealth: 0
+--- !u!114 &2570417465440761907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3738774939490921781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b5658be4ef2e040afc8e1afc622cb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!195 &6866383302286237633
 NavMeshAgent:
   m_ObjectHideFlags: 0

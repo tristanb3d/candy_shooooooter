@@ -104,8 +104,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edbe2fc879808b04a8c0cd7c73d02c01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Spawner2: {fileID: 3625572773608594799, guid: d5114d2d41cd6ac4e9522b99d8da3bb7,
+  Spawner2: {fileID: 6187005737686158892, guid: a418957ad4b98754dbc2cf4eee6ada1a,
     type: 3}
   SpawnTimer2: 0.2
   SpawnWait2: 0.2
   SpawnLimit2: 75
+  SpawnMax: 0
