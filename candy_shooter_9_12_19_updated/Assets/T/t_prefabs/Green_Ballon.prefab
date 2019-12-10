@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 686163863665940406}
   - component: {fileID: 4667593676300836521}
   - component: {fileID: 8187918248273014304}
+  - component: {fileID: 6472343217052503149}
   - component: {fileID: 5809051352825655797}
   m_Layer: 0
   m_Name: Green_Ballon
@@ -107,6 +108,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   agent: {fileID: 5809051352825655797}
+  radius: 20
+  golumHealth: 0
+--- !u!114 &6472343217052503149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3625572773608594799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b5658be4ef2e040afc8e1afc622cb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!195 &5809051352825655797
 NavMeshAgent:
   m_ObjectHideFlags: 0
